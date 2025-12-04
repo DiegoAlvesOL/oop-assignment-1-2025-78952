@@ -1,5 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-assignment-1-2025-78952", "oop-assignment-1-2025-78952\oop-assignment-1-2025-78952.csproj", "{A7499DE1-B23B-441F-A1BC-3D10F615DA6D}"
 EndProject
 Global

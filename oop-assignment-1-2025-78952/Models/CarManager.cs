@@ -2,7 +2,7 @@ namespace oop_assignment_1_2025_78952.Models;
 
 public class CarManager
 {
-    // Lista que armazena todos os carros
+    
     private List<RentalCar> cars = new List<RentalCar>();
     
     
@@ -19,7 +19,7 @@ public class CarManager
         }
     }
 
-    // Método para mostrar todos os carros
+
     public void ShowAllCars()
     {
         foreach (var car in cars)
